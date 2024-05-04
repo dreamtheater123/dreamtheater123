@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong"
-title                    : "Wenqian Cui / Personal Website"
+title                    : "Wenqian CUI / Personal Website"
 title_separator          : "-"
-name                     : &name "Wenqian Cui"
+name                     : &name "Wenqian CUI"
 description              : &description "personal description"
 url                      : https://dreamtheater123.github.io/dreamtheater123/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,13 +21,13 @@ repository               : "dreamtheater123"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Wenqian Cui"
+  avatar           : "ID photo.jpg"
+  name             : "Wenqian CUI"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at The Chinese University of Hong Kong with a strong AI interest. Blend of academic research and hands-on industry engineering, specializing in Natural Language Processing and AI for music with works published. Actively seeking opportunities for research internships in NLP, aiming to leverage my refined skills in an industrial setting to contribute significantly to cutting-edge AI research and projects."
-  location         : "Hong Kong"
+  bio              : # "Ph.D. student at The Chinese University of Hong Kong with a strong AI interest. Blend of academic research and hands-on industry engineering, specializing in Natural Language Processing and AI for music with works published. Actively seeking opportunities for research internships in NLP, aiming to leverage my refined skills in an industrial setting to contribute significantly to cutting-edge AI research and projects."
+  location         : <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=m4Hk7SoGAVGZqF5dSYboyXECAVDtBZ0J8tqWQ_YV5dw"></script> # "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
-  uri              : # URL
+  uri              : # <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=m4Hk7SoGAVGZqF5dSYboyXECAVDtBZ0J8tqWQ_YV5dw"></script>
   email            : "wenqian.cui@link.cuhk.edu.hk" 
 
   # Academic websites
@@ -67,7 +67,7 @@ author:
   twitter          : "easy4u2remember"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : # <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=m4Hk7SoGAVGZqF5dSYboyXECAVDtBZ0J8tqWQ_YV5dw"></script>
   xing             : # Username
   youtube          : # Username
   zhihu            : "https://www.zhihu.com/people/cui-wen-qian-74"  # URL

@@ -7,14 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-This is Wenqian Cui.
+Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home). Blend of academic research and hands-on industry engineering, specializing in Natural Language Processing and AI for music with works published. My research mainly focuses on Large Language Models, Natural Language Processing, and AI Music Generation. Actively seeking opportunities for research internships in NLP, aiming to leverage my refined skills in an industrial setting to contribute significantly to cutting-edge AI research and projects.
 
-Test Header
+News
 ======
-asdf
+- **2024 Apr.**: My paper "[MoodLoopGP: Generating Emotion-Conditioned Loop Tablature Music with Multi-Granular Features](https://arxiv.org/abs/2401.12656)" has been nominated for the best paper award in EvoMUSART 2024!
+- **2024 Jan.**: One paper has been accepted in EvoMUSART 2024.
+- **2024 Jan.**: I am starting my PhD study at the Chinese University of Hong Kong.
+- **2024 Dec.**: Developed and Open-sourced a [tool](https://github.com/dreamtheater123/calendar_gpt) that automatically adds calendar events based on text prompts powered by ChatGPT.
+- **2023 Jun.**: Preprint of My paper "[Exploring semantic information in disease: Simple Data Augmentation Techniques for Chinese Disease Normalization](https://arxiv.org/abs/2306.01931)" released on ArXiv.
+- **2022 Dec.**: One paper has been accepted in IEEE BigData 2022.
 
-asdf
+Publications
 ======
+- **Cui, Wenqian**, Pedro Sarmento, and Mathieu Barthet. "MoodLoopGP: Generating Emotion-Conditioned Loop Tablature Music with Multi-granular Features." In International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar), pp. 97-113. Cham: Springer Nature Switzerland, 2024.
+- **Cui, Wenqian**, Shaohui Liu, Xiangling Fu, Xien Liu, and Ji Wu. "Exploring semantic information in disease: Simple Data Augmentation Techniques for Chinese Disease Normalization." arXiv preprint arXiv:2306.01931 (2023).
+- Gu, Mingjun, **Wenqian Cui**, and Xiangling Fu. "BioSentEval: An Evaluation Toolkit for Chinese Medical Sentence Representation." In 2022 IEEE International Conference on Big Data (Big Data), pp. 3107-3111. IEEE, 2022.
+- Liu, Yijian, Junli Yang, and **Wenqian Cui**. "Simple, Fast, Accurate Object Detection based on Anchor-Free Method for High Resolution Remote Sensing Images." In IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, pp. 2443-2446. IEEE, 2020.
+
+
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
