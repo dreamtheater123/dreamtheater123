@@ -5,7 +5,7 @@ Ph.D. student in the [Department of Computer Science and Engineering](https://ww
 
 News
 ======
-- **2024 Apr.**: My paper "[MoodLoopGP: Generating Emotion-Conditioned Loop Tablature Music with Multi-Granular Features](https://arxiv.org/abs/2401.12656)" has been nominated for the best paper award in EvoMUSART 2024!
+- **2024 Apr.**: My paper "[MoodLoopGP: Generating Emotion-Conditioned Loop Tablature Music with Multi-Granular Features](https://arxiv.org/abs/2401.12656)" has been nominated for the best paper award in EvoMUSART 2024 and have received the outstanding student award!
 - **2024 Jan.**: One paper has been accepted in EvoMUSART 2024.
 - **2024 Jan.**: I am starting my PhD study at the Chinese University of Hong Kong.
 - **2024 Dec.**: Developed and Open-sourced a [tool](https://github.com/dreamtheater123/calendar_gpt) that automatically adds calendar events based on text prompts powered by ChatGPT.

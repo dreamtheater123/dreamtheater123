@@ -11,7 +11,7 @@ redirect_from:
 
 You can download my CV [here](https://drive.google.com/file/d/10zAXv38Ckq0j0gC4sua7Yqh_iX736Zd2/view?usp=sharing).
 
-![example](CV_CWQ_CUHK_RESEARCH_EN.jpg)
+![example](cv_pic.jpg)
 
 <!-- Education
 ======
