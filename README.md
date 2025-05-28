@@ -5,6 +5,9 @@ Ph.D. student in the [Department of Computer Science and Engineering](https://ww
 
 News
 ======
+- **2025 May**: My paper "[VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models](https://arxiv.org/abs/2501.04962)" has been accepted by ACL 2025 main conference!
+- **2024 May**: My paper "[Recent Advances in Speech Language Models: A Survey](https://arxiv.org/pdf/2410.03751)" has been accepted by ACL 2025 main conference!
+- **2024 May**: My paper "Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning" has been accepted by ICML 2025!
 - **2025 Jan.**: My paper "[VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models](https://arxiv.org/abs/2501.04962)" has been publicly released on arxiv.
 - **2024 Oct.**: My paper "[Recent Advances in Speech Language Models: A Survey](https://arxiv.org/pdf/2410.03751)" has been publicly released on arxiv.
 - **2024 Oct.**: One paper has been accepted for BIBM 2024.
