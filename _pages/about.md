@@ -11,6 +11,12 @@ Ph.D. student in the [Department of Computer Science and Engineering](https://ww
 
 News
 ======
+- **2025 May**: My paper "[VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models](https://arxiv.org/abs/2501.04962)" has been accepted by ACL 2025 main conference!
+- **2024 May**: My paper "[Recent Advances in Speech Language Models: A Survey](https://arxiv.org/pdf/2410.03751)" has been accepted by ACL 2025 main conference!
+- **2024 May**: My paper "Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning" has been accepted by ICML 2025!
+- **2025 Jan.**: My paper "[VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models](https://arxiv.org/abs/2501.04962)" has been publicly released on arxiv.
+- **2024 Oct.**: My paper "[Recent Advances in Speech Language Models: A Survey](https://arxiv.org/pdf/2410.03751)" has been publicly released on arxiv.
+- **2024 Oct.**: One paper has been accepted for BIBM 2024.
 - **2024 Apr.**: My paper "[MoodLoopGP: Generating Emotion-Conditioned Loop Tablature Music with Multi-Granular Features](https://arxiv.org/abs/2401.12656)" has been nominated for the best paper award in EvoMUSART 2024 and have received the outstanding student award!
 - **2024 Jan.**: One paper has been accepted in EvoMUSART 2024.
 - **2024 Jan.**: I am starting my PhD study at the Chinese University of Hong Kong.
@@ -20,8 +26,11 @@ News
 
 Publications
 ======
+- **Cui, Wenqian**, Xiaoqi Jiao, Ziqiao Meng, and Irwin King. "VoxEval: Benchmarking the Knowledge Understanding Capabilities of End-to-End Spoken Language Models." arXiv preprint arXiv:2501.04962 (2025).
+- **Cui, Wenqian**, Dianzhi Yu, Xiaoqi Jiao, Ziqiao Meng, Guangyan Zhang, Qichao Wang, Yiwen Guo, and Irwin King. "Recent advances in speech language models: A survey." arXiv preprint arXiv:2410.03751 (2024).
+- Meng, Ziqiao, Qichao Wang, **Wenqian Cui**, Yifei Zhang, Bingzhe Wu, Irwin King, Liang Chen, and Peilin Zhao. "Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers." In Audio Imagination: NeurIPS 2024 Workshop AI-Driven Speech, Music, and Sound Generation.
+- **Cui, Wenqian**, Xiangling Fu, Shaohui Liu, Mingjun Gu, Xien Liu, Ji Wu, and Irwin King. "Data Augmentation Techniques for Chinese Disease Name Normalization." In 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 3134-3137. IEEE, 2024.
 - **Cui, Wenqian**, Pedro Sarmento, and Mathieu Barthet. "MoodLoopGP: Generating Emotion-Conditioned Loop Tablature Music with Multi-granular Features." In International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar), pp. 97-113. Cham: Springer Nature Switzerland, 2024.
-- **Cui, Wenqian**, Shaohui Liu, Xiangling Fu, Xien Liu, and Ji Wu. "Exploring semantic information in disease: Simple Data Augmentation Techniques for Chinese Disease Normalization." arXiv preprint arXiv:2306.01931 (2023).
 - Gu, Mingjun, **Wenqian Cui**, and Xiangling Fu. "BioSentEval: An Evaluation Toolkit for Chinese Medical Sentence Representation." In 2022 IEEE International Conference on Big Data (Big Data), pp. 3107-3111. IEEE, 2022.
 - Liu, Yijian, Junli Yang, and **Wenqian Cui**. "Simple, Fast, Accurate Object Detection based on Anchor-Free Method for High Resolution Remote Sensing Images." In IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, pp. 2443-2446. IEEE, 2020.
 
